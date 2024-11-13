@@ -1,4 +1,4 @@
-package chunckserver
+package chunkserver
 
 import "sync"
 
